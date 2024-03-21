@@ -1,4 +1,4 @@
-# Task-Master-Project
+# Task-Master
 
 This project is made for easily doing things and remind of taks.
 
