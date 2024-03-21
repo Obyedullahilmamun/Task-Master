@@ -1,9 +1,0 @@
-1) Install Angular 
-Version:  7.2.1
-2) Install nodejs, npm version (এখানে nodejs এর version change করলে npm version ও সেম হওয়ার কথা ) 
-nodejs version: v8.9.0
-npm version: 5.5.1
-3) Install node-sass 
-version: 4.5.3
-4) Install MongoDB, Mongoose (Mongoose এর version অনুযায়ী MongoDB এর version মিলতে হবে)
-Mongoose version: 5.4.11
