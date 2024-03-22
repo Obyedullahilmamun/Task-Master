@@ -12,7 +12,7 @@ These are the required software for Task Master:
 ```
 
 # Project GUI Overview
-```
+
 Signup: A new user can create their account by signing up.
 ![signup-page (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/3e81dba9-3918-4880-b484-debd67521dce)
 
@@ -33,7 +33,7 @@ Create a New LIST: Users can create a new List.
 
 LISTS Update: Lists can be edited and deleted.
 ![list-update (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/709f7da7-c60e-4c2d-ab97-3e1ad898a123)
-```
+
 # Installation Instructions for Running the Project
 To run this project, execute 'npm install' in both the API and frontend directories to install dependencies.
 
