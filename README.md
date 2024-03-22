@@ -19,9 +19,15 @@ Login: Users can Login using their email and password.
 New User: A new user creates TASKS from LISTS.
 ![newuser_page (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/2fd1995c-88d8-4d5d-9f73-32499c6e2640)
 
-Save: The user's progress, including lists and tasks, is saved.
+Save: The user's progress, including Lists and Tasks, is saved.
 ![save-page (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/1db294c0-248f-487f-b867-df2365220149)
 
 Update: Users can update their tasks by marking them as complete, editing them, or even deleting them.
 ![task-update (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/b3bf3855-4d38-49f8-b32c-178938681923)
+
+Create a New LIST: Users can create a new List.
+![createnew-list (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/744cb2a2-24aa-45e6-827e-f68e5b6f8328)
+
+LISTS Update: Lists can be edited and deleted.
+![list-update (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/709f7da7-c60e-4c2d-ab97-3e1ad898a123)
 
