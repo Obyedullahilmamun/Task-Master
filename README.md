@@ -13,3 +13,7 @@ Backend: Node.js and MongoDB
 Signup Page
 ![signup-page (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/3e81dba9-3918-4880-b484-debd67521dce)
 A new user can create their account by signing up.
+
+Login Page
+![login-page (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/7791a89e-4f5a-4594-bbb7-b3375e71bba6)
+Users can Login using their email and password.
