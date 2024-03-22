@@ -10,4 +10,6 @@ Backend: Node.js and MongoDB
 4. Installed Mongoose version: 5.4.11, MongoDB (Mongoose and MongoDB versions should be compatible)
 
 # Project GUI Overview
+Signup Page
 ![signup-page (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/3e81dba9-3918-4880-b484-debd67521dce)
+A new user can create their account by signing up.
