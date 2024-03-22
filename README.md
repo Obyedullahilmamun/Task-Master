@@ -16,3 +16,7 @@ Signup Page: A new user can create their account by signing up.
 Login Page: Users can Login using their email and password.
 ![login-page (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/7791a89e-4f5a-4594-bbb7-b3375e71bba6)
 
+New User Page
+![newuser_page (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/2fd1995c-88d8-4d5d-9f73-32499c6e2640)
+
+
