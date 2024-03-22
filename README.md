@@ -31,3 +31,6 @@ Create a New LIST: Users can create a new List.
 LISTS Update: Lists can be edited and deleted.
 ![list-update (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/709f7da7-c60e-4c2d-ab97-3e1ad898a123)
 
+# Installation Instructions for Running the Project
+To run this project, execute 'npm install' in both the API and frontend directories to install dependencies.
+
