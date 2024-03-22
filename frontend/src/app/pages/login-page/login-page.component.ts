@@ -18,13 +18,18 @@ export class LoginPageComponent implements OnInit {
   onLoginButtonClicked(email: string, password: string) {
     this.authService.login(email, password).subscribe((res: HttpResponse<any>) => {
       if (res.status === 200) {
-        // we have logged in successfully
+        // Logged in successfully
         this.router.navigate(['/lists']);
       }
-      console.log(res);
-      
+    }, error => {
+      // Error handling
+      if (error.status === 400) { 
+        // Incorrect email or password - display alert
+        alert('Email or password is incorrect.');
+      } else {
+        // Other errors - display generic alert
+        alert('Error: Something unexpected happened. Please try again later.');
+      }
     });
   }
 }
-
-
