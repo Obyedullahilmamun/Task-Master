@@ -3,12 +3,13 @@ Task Master is designed to facilitate task execution and reminders. It utilizes 
 
 ## Requirements
 To run Task Master, make sure you have the following software installed:
-1. **Angular**: v7.2.1  
-- **Node.js**: v8.9.0  
-- **npm**: v5.5.1  
-- **node-sass**: v4.5.3  
-- **Mongoose**: v5.4.11  
-- **MongoDB**: (Ensure the MongoDB version is compatible with Mongoose)
+→ **Angular**: v7.2.1  
+→ **Node.js**: v8.9.0  
+→ **npm**: v5.5.1  
+→ **node-sass**: v4.5.3  
+→ **Mongoose**: v5.4.11  
+→ **MongoDB**: (Ensure the MongoDB version is compatible with Mongoose)
+
 
 ## Project GUI Overview
 
