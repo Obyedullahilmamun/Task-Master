@@ -10,6 +10,12 @@ To run Task Master, make sure you have the following software installed:
 - [x] **Mongoose**: v5.4.11  
 - [x] **MongoDB**: (Ensure the MongoDB version is compatible with Mongoose)
 
+## Features
+- User authentication (Signup & Login)
+- Create, update, and delete tasks
+- Organize tasks into lists
+- Save user progress automatically
+- Responsive UI for better user experience
 
 ## Project GUI Overview
 
@@ -37,5 +43,3 @@ LISTS Update: Lists can be edited and deleted.
 ## Installation Instructions for Running the Project
 To run this project, execute 'npm install' in both the API and frontend directories to install dependencies.
 
-## Credits
-This project, Task Master, is based on the original [Task Manager (MEAN Stack)](https://github.com/Devstackr/task-manager-mean-stack) project by [Devstackr](https://github.com/Devstackr).
