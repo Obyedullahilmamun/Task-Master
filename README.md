@@ -1,15 +1,21 @@
-# Task-Master
+## Task-Master
 Task Master is designed to facilitate task execution and reminders. It utilizes Angular for the frontend and Node.js with MongoDB for the backend.
 
 ```
-These are the required software for Task Master:
-1. Installed Angular Version: 7.2.1
-2. Installed Node.js version: v8.9.0, npm version: 5.5.1
-3. Installed node-sass version: 4.5.3
-4. Installed Mongoose version: 5.4.11, MongoDB (Mongoose and MongoDB versions should be compatible)
+## Requirements
+
+To run Task Master, make sure you have the following software installed:
+
+- **Angular**: v7.2.1  
+- **Node.js**: v8.9.0  
+- **npm**: v5.5.1  
+- **node-sass**: v4.5.3  
+- **Mongoose**: v5.4.11  
+- **MongoDB**: (Ensure the MongoDB version is compatible with Mongoose)
 ```
 
-# Project GUI Overview
+
+## Project GUI Overview
 
 Signup: A new user can create their account by signing up.
 ![signup-page (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/3e81dba9-3918-4880-b484-debd67521dce)
@@ -32,6 +38,8 @@ Create a New LIST: Users can create a new List.
 LISTS Update: Lists can be edited and deleted.
 ![list-update (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/709f7da7-c60e-4c2d-ab97-3e1ad898a123)
 
-# Installation Instructions for Running the Project
+## Installation Instructions for Running the Project
 To run this project, execute 'npm install' in both the API and frontend directories to install dependencies.
 
+## Credits
+This project, Task Master, is based on the original [Task Manager (MEAN Stack)](https://github.com/Devstackr/task-manager-mean-stack) project by [Devstackr](https://github.com/Devstackr).
