@@ -11,11 +11,8 @@ To run Task Master, make sure you have the following software installed:
 - [x] **MongoDB**: (Ensure the MongoDB version is compatible with Mongoose)
 
 ## Features
-- User authentication (Signup & Login)
-- Create, update, and delete tasks
-- Organize tasks into lists
-- Save user progress automatically
-- Responsive UI for better user experience
+Task Master provides secure user authentication, allowing users to sign up and log in safely. The application supports full task management, enabling users to create, update, and delete tasks, as well as organize them into categorized lists. User progress is saved automatically to ensure no data is lost. Additionally, the interface is fully responsive, offering a smooth experience across desktops, tablets, and mobile devices.
+
 
 ## Project GUI Overview
 
