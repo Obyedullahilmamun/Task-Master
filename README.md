@@ -2,7 +2,19 @@
 Task Master is designed to facilitate task execution and reminders. It utilizes Angular for the frontend and Node.js with MongoDB for the backend.
 
 ## Requirements
-To run Task Master, make sure you have the following software installed:
+For an easier setup without relying on very old, you use the following ranges, which are known to be compatible with Angular 7.x:
+
+| Component   | Suggested Working Range     | Notes                                        |
+|-------------|-----------------------------|----------------------------------------------|
+| Angular     | v7.0.0 to v7.3.9            |                                              | 
+| Node.js     | v10.9.0 to v12.22.12        | LTS versions that supported Angular 7        |
+| npm         | v6.x to v7.x                | Comes with the suggested Node.js versions    |
+| Mongoose    | v5.0.0 to v5.13.22          |                                              |
+| MongoDB     | v3.6 to v4.4                | Use a modern patch version within this range |
+
+### Setup Used for This Project
+The project was developed using the following versions:
+
 - [x] **Angular**: v7.2.1  
 - [x] **Node.js**: v8.9.0  
 - [x] **npm**: v5.5.1  
