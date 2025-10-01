@@ -28,7 +28,6 @@ Task Master provides secure user authentication, allowing users to sign up and l
 
 
 ## Project GUI Overview
-
 Signup: A new user can create their account by signing up.
 ![signup-page (1)](https://github.com/Obyedullahilmamun/Task-Master/assets/78032583/3e81dba9-3918-4880-b484-debd67521dce)
 
