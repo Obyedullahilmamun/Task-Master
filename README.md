@@ -1,4 +1,4 @@
-## Task-Master
+# Task Master
 Task Master is designed to facilitate task execution and reminders. It utilizes Angular for the frontend and Node.js with MongoDB for the backend.
 
 ## Requirements
